@@ -27,7 +27,7 @@ redirect_from:
 I have experience with independent research. My recent work on Continual Learning for Federated Setup has been submitted to NeurIps, 2024. In this work I formulate a new training method for continual setups to have provable convergence gurantess in a non-convex setting.
 
 ## 💼 Professional Experience
-I worked as a **Data Scientist** for 3 years at Dr. Reddy's Laboratories, India at their R&D Centre. My major roles included building NLP based AI models and productionizing them.
+I worked as a **Data Scientist** for 3 years at Dr. Reddy's Laboratories, India at their R&D Centre. My primary role included building NLP based AI models and productionizing them.
 
 
 
