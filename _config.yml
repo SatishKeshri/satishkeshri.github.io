@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Satish Kumar Keshri"
   avatar           : "satish_sikkim_1.jpg"
-  bio              : Deep Learning Theory, Optimization #Continual Learning and Federated Learning \n under Prof. Ranjitha Prasad"
+  bio              : Deep Learning Theory, Optimization, Decentralized Learning #Continual Learning and Federated Learning \n under Prof. Ranjitha Prasad"
   location         : "Delhi, India"
   employer         : "IIIT - Delhi"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "satish-kumar-keshri"
+  linkedin         : #"satish-kumar-keshri"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -116,6 +116,9 @@ author:
   youtube          : #"@borismeinardus"
   wikipedia        :
 
+
+# Added by SKK
+github: [metadata]
 
 # Reading Files
 include:

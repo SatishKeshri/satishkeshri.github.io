@@ -4,11 +4,11 @@ main:
     # url: /cv/
     url: /files/Resume.pdf
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
   
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
