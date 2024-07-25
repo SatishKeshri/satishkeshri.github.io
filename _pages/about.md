@@ -15,7 +15,7 @@ redirect_from:
 
 🔬 I am currently working on efficient optimization algorithms for Continual Learning in centralized and federated learning setups. My research interests are in Theoretical Machine Learning, Federated Learning and Continual Learning.
 
-📚 I have completed my Master's in Data Science and Bacherlor's in Mathematics and Computing. I have deep understanding on various mathematical topics required for theoritical machine learning like Calculus (Single and Multivariable), Linear Algebra, Probability Theory, Optimization Algorithms to name a few.
+📚 I have completed my Master's in Data Science and Bachelor's in Mathematics and Computing. I have deep understanding on various mathematical topics required for theoritical machine learning like Calculus (Single and Multivariable), Linear Algebra, Probability Theory, Optimization Algorithms to name a few.
 
 📽️ I am also interested in building machine learning models for production environment part of which I learned during my career as a Data Scientist.
 
