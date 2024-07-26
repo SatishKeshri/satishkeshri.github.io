@@ -24,6 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  # gem "nokogiri" #, ">= 1.6.7.rc"
+  # gem 'jemoji'
 end
 
 gem "webrick", "~> 1.8"

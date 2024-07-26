@@ -1,5 +1,5 @@
 ---
-title: "On The Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients"
+title: "On The Convergence of Continual Federated Learning"
 collection: publications
 permalink: /publication/2024-CFLAG
 excerpt: 'The holy grail of machine learning is to enable AI systems to learn continuously and adapt to changing environments. Continual Federated Learning (CFL) enhances the efficiency, privacy, and scalability of federated learning systems while simultaneously learning on the new tasks and preventing catastrophic forgetting on the previous tasks. The primary challenge of CFL is global catastrophic forgetting, where the accuracy of the global model trained on new tasks declines on the old tasks. In this work, we propose a novel aggregation strategy for memory-based CFL and provide convergence analysis where the focus of the analysis is on the factors that degrade the performance of CFL over $T$ communication rounds, such as client drift, bias and forgetting. We show that the proposed CFL framework converges at a rate of $\mathcal{O}(1/\sqrt{T})$ on the current task while circumventing the effect of bias and global catastrophic forgetting. We provide empirical evidence that the proposed technique outperforms several baselines with respect to metrics such as accuracy and forgetting.'
