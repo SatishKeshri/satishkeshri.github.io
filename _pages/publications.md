@@ -17,7 +17,7 @@ author_profile: true
 
 
 # On-going Projects
-1. Convergence of Robust Continual Federted Learning Under Byzantine Attacks
-2. Bayesian Federated Continual Learning
-3. A Generalized Approach to Continual Learning Beyond Architectures
+1. Robust Continual Federted Learning Under Byzantine Attacks
+2. Bayesian Federated Continual Learning with Overlapped Task Boundaries
+3. A Generalized Approach to Continual Learning Beyond Model Architectures
 <!-- 3. Continual Learning Beyond Model Architecture: A Generalization Approach  -->
