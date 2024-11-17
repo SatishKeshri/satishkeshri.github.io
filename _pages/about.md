@@ -25,7 +25,8 @@ redirect_from:
 # Selected Experience
 
 ## 📜 Research Experience
-I have experience with independent research. My recent work on Continual Learning for Federated Setup has been submitted to NeurIPS, 2024. In this work I proposed a new algorithm for federated continual learning setups which provides convergence guarantees in a non-convex optimization regime.
+Currently, I am working as a pre-doctoral Research Assistant at IIIT-Delhi with Prof. Ranjitha Prasad. My research focus is on building efficient lifelong/continual learners and privacy-preserving ML for applications in healtcare, autonomous vehicles and surveillence. My recent work on Continual Federated Learning has been accepted at the conference CODS_COMAD 2024 and a longer version is available on arXiv.
+
 
 ## 💼 Professional Experience
 I worked as a **Data Scientist** for 3 years at Dr. Reddy's Laboratories, India at their R&D Centre. My primary role included building NLP based AI models and productionizing them.
