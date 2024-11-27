@@ -83,10 +83,11 @@ author:
   name             : "Satish Kumar Keshri"
   avatar           : "satish_sikkim_1.jpg"
   bio              : Continual Learning, Collaborative Learning, Bayesian Deep Learning #, Decentralized ML #Continual Learning and Federated Learning \n under Prof. Ranjitha Prasad"
-  location         : "Delhi, India"
+  location         : "New Delhi, India"
   employer         : "IIIT - Delhi"
+  employer_url     : "https://www.iiitd.ac.in/"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=WYxVHGUAAAAJ&hl=en&oi=ao
   email            : "skeshri96@gmail.com" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
