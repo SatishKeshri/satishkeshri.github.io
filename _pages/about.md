@@ -11,18 +11,18 @@ redirect_from:
 
 
 <!-- [comment] #![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I am a Pre-doctoral Research Assistant at the Centre for Artificial Intelligence (CAI), IIIT-Delhi, India.
+👨🏻‍💻 I am a Pre-doctoral Research Assistant at the Centre for Artificial Intelligence (CAI), IIIT-Delhi, India hosted by <a href="https://sites.google.com/site/ranjithap/home" target="_blank"> Dr. Ranjitha Prasad</a>.
 
 🔬 My primary research interest is in continual/lifelong learning and Bayesian deep learning. Humans are naturally capable of lifelong learning and can retain knowledge over time. However, providing computer algorithms with similar cognitive capabilities remains a compelling yet challenging task. Through my research, I want to understand how to develop efficient yet adaptive lifelong learners which are good at handling the sequential task dynamics. I study this through the lens of optimization and probabilistic modelling with emphasis on efficient memory schemes for replay memory.
 
 I am also interested in building distributed and privacy-preserving ML through collaborative (federated) learning . Recently, growing data privacy concerns have introduced significant obstacles in developing safe ML models for sensitive applications. I aim to develop federated learning algorithms for safe, reliable and robust ML applications.
 
 ### <span style="color:red"> News!!</span>
-<span style="color:blue"> Jan 2025</span> (upcoming): I am presenting a poster of my work at the 26th International Conference on Distributed Computing and Networking (ICDCN), IIT Hyderabad, India. 
+<span style="color:blue"> Jan 2025</span> (upcoming): I am presenting a poster at the 26th International Conference on Distributed Computing and Networking (ICDCN), IIT Hyderabad, India. 
 
-<span style="color:blue"> Dec 2024</span> (upcoming): I am giving a talk on my work at the CODS COMAD 2024, IIT Jodhpur, India.
+<span style="color:blue"> Dec 2024</span> (upcoming): I am giving a talk on federated learning at the CODS COMAD 2024, IIT Jodhpur, India.
 
-<span style="color:blue"> Nov 2024</span>: My work on the convergence study of continual federated learning is available on [arXiv](https://arxiv.org/abs/2411.07959v1).
+<span style="color:blue"> Nov 2024</span>: My work on the convergence study of continual federated learning is available on <a href="https://arxiv.org/abs/2411.07959v1" target="_blank">arXiv</a>.
 
 
 <span style="color:blue"> Oct 2024</span>: My paper on continual federated learning is accepted at CODS COMAD 2024 under the Young Faculty & Researchers' Track. 
