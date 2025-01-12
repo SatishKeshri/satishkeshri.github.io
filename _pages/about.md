@@ -18,9 +18,9 @@ redirect_from:
 I am also interested in building distributed and privacy-preserving ML through collaborative (federated) learning . Recently, growing data privacy concerns have introduced significant obstacles in developing safe ML models for sensitive applications. I aim to develop federated learning algorithms for safe, reliable and robust ML applications.
 
 ### <span style="color:red"> News!!</span>
-<span style="color:blue"> Jan 2025</span> (upcoming): I am presenting a poster at the 26th International Conference on Distributed Computing and Networking (ICDCN), IIT Hyderabad, India. 
+<span style="color:blue"> Jan 2025</span>: I presented our work as a talk and poster at the 26th International Conference on Distributed Computing and Networking (ICDCN), IIT Hyderabad, India. We won the "Best Poster Paper Award".
 
-<span style="color:blue"> Dec 2024</span> (upcoming): I am giving a talk on federated learning at the CODS COMAD 2024, IIT Jodhpur, India.
+<span style="color:blue"> Dec 2024</span>: I am giving a talk on federated learning at the CODS COMAD 2024, IIT Jodhpur, India.
 
 <span style="color:blue"> Nov 2024</span>: My work on the convergence study of continual federated learning is available on <a href="https://arxiv.org/abs/2411.07959v1" target="_blank">arXiv</a>.
 
