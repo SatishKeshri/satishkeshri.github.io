@@ -22,6 +22,9 @@ Humans are naturally capable of lifelong learning and can retain knowledge over 
 I am also interested in building distributed and privacy-preserving machine learning and deep learning models through collaborative (federated) learning . Recently, growing data privacy concerns have introduced significant obstacles in developing safe ML models for sensitive applications. I aim to develop federated learning algorithms for safe, reliable and robust ML applications.
 
 ### <span style="color:red"> News!!</span>
+
+<span style="color:blue"> [Jan 2025</span>]: Our work titled "On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients" has been accepted (poster) at **AISTATS 2025**. The arxiv version of this paper is available here: <a href="https://arxiv.org/abs/2411.07959v1" target="_blank">arXiv</a>.
+
 <span style="color:blue"> [Jan 2025</span>]: We won the **"Best Poster Paper Award"** at the 26th International Conference on Distributed Computing and Networking (ICDCN), IIT Hyderabad, India. I am grateful to my co-authors Nazrren Shah and Dr. Ranjitha Prasad. I also presented our work as a lightning talk and poster at the conference. [See pics](_pages/ICDCN_pics_page.html)
 <!-- (_pages/ICDCN_pics_page.md) -->
 
