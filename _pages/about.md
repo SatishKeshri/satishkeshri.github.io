@@ -24,7 +24,6 @@ I am also interested in building distributed and privacy-preserving machine lear
 ### <span style="color:red"> News!!</span>
 
 <span style="color:blue"> [Jan 2025</span>]: Our work titled "On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients" has been accepted (poster) at **AISTATS 2025**. I am grateful to my co-authors Nazreen Shah and Dr. Ranjitha Prasad. The arxiv version of this paper is available here: <a href="https://arxiv.org/abs/2411.07959v1" target="_blank">arXiv</a>.
-
 <span style="color:blue"> [Jan 2025</span>]: We won the **"Best Poster Paper Award"** at the 26th International Conference on Distributed Computing and Networking (ICDCN), IIT Hyderabad, India.  I also presented our work as a lightning talk and poster at the conference. [See pics](_pages/ICDCN_pics_page.html)
 <!-- (_pages/ICDCN_pics_page.md) -->
 
