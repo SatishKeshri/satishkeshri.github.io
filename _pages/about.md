@@ -11,7 +11,8 @@ redirect_from:
 
 
 <!-- [comment] #![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I am a Research Assistant at the Infosys Centre for Artificial Intelligence (CAI), <a href="https://iiitd.ac.in" target="_blank"> IIIT-Delhi</a>, India hosted by <a href="https://sites.google.com/site/ranjithap/home" target="_blank"> Dr. Ranjitha Prasad</a>.
+👨🏻‍💻 I am a PhD student and Graduate Research Assistant at the Penn State University, <a href="https://psu.edu" target="_blank"> Penn State University</a>, USA.
+ <!-- hosted by <a href="https://sites.google.com/site/ranjithap/home" target="_blank"> Dr. Ranjitha Prasad</a>. -->
 
 🔬 My primary research interest is in machine learning, distributed learning and natural language processing. Specifically, I am interested in continual/lifelong learning, federated learning and privacy-preserving machine learning. I try to solve the problems through optimizational point-of-view as well as using Bayesian learning techniques.
 
@@ -22,6 +23,8 @@ Humans are naturally capable of lifelong learning and can retain knowledge over 
 I am also interested in building distributed and privacy-preserving machine learning and deep learning models through collaborative (federated) learning . Recently, growing data privacy concerns have introduced significant obstacles in developing safe ML models for sensitive applications. I aim to develop federated learning algorithms for safe, reliable and robust ML applications.
 
 ### <span style="color:red"> News!!</span>
+
+<span style="color:blue"> [Aug 2025</span>]: I am joining as a PhD student at Penn State under the College of Information Sciences and Technology <a href="https://ist.psu.edu" target="_blank">(IST)</a> under Prof. Vasant Honavar.
 
 <span style="color:blue"> [Jan 2025</span>]: Our work titled "On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients" has been accepted (poster) at **AISTATS 2025**. I am grateful to my co-authors Nazreen Shah and Dr. Ranjitha Prasad. The arxiv version of this paper is available here: <a href="https://arxiv.org/abs/2411.07959v1" target="_blank">arXiv</a>.
 
