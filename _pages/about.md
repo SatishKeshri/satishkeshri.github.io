@@ -11,7 +11,7 @@ redirect_from:
 
 
 <!-- [comment] #![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I am a PhD student and Graduate Research Assistant at the Penn State University, <a href="https://psu.edu" target="_blank"> Penn State University</a>, USA.
+👨🏻‍💻 I am a PhD student and a Graduate Research Assistant at the <a href="https://psu.edu" target="_blank"> Penn State University</a>, USA.
  <!-- hosted by <a href="https://sites.google.com/site/ranjithap/home" target="_blank"> Dr. Ranjitha Prasad</a>. -->
 
 🔬 My primary research interest is in machine learning, distributed learning and natural language processing. Specifically, I am interested in continual/lifelong learning, federated learning and privacy-preserving machine learning. I try to solve the problems through optimizational point-of-view as well as using Bayesian learning techniques.
